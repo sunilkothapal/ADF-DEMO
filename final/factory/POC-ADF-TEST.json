@@ -1,0 +1,9 @@
+{
+	"name": "POC-ADF-TEST",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3cef82e8-9b1b-4e21-8808-fe6879fb5f71",
+		"tenantId": "332cf3d3-680b-476e-ad0a-659e90b87300"
+	}
+}
